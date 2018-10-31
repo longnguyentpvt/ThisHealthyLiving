@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 12, 2016, 11:02:10 AM
+    Author     : KyLong
+*/
+
+
+@media (min-width: 1200px) {
+}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 991px) {
+    #header-slogan #slogan h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 950px) {
+    .healthyLivingContainer {
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    #home-content .healthyLivingContainer {
+        padding: 0;
+    }
+
+    #healthy-posts-grid, #left-blog-detail {
+        margin-right: 0;
+    }
+
+    #healthy-sidebar {
+        position: inherit;
+        width: 100%;
+        padding: 0;
+        margin-bottom: 25px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 830px) {
+    #header-slogan #slogan h1 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 767px) {
+    #footer-menu ul li {
+        width: 33.3%;
+        text-align: center;
+    }
+
+    #footer-menu ul li a {
+        padding: 0; 
+    }
+}
+
+
